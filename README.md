@@ -1,29 +1,17 @@
-# README #
+# Glazed and Confused #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Glazed and Confused is a game project I worked on as a deliverable for GAM20003 (Digital Games Prototyping Lab).
+It is an endless runner where you play as a sentient donut who *tries* to escape from a maniacal donut processing facility.
 
-### What is this repository for? ###
+## Controls:
+**Movement:**
+W or S: Move faster or slow down
+A or D: Move left / right
+Space: Jump
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+## The Team
+Tony (Myself): Lead Programmer, Designer
+Jackson: 3D Modeller / Animator
+Vivian: Designer
+Cameron: Animator
+Andrew: Writer
