@@ -5,13 +5,13 @@ It is an endless runner where you play as a sentient donut who *tries* to escape
 
 ## Controls:
 **Movement:**
-W or S: Move faster or slow down
-A or D: Move left / right
-Space: Jump
+*W or S: Move faster or slow down
+*A or D: Move left / right
+*Space: Jump
 
 ## The Team
-Tony (Myself): Lead Programmer, Designer
-Jackson: 3D Modeller / Animator
-Vivian: Designer
-Cameron: Animator
-Andrew: Writer
+*Tony (Myself): Lead Programmer, Designer
+*Jackson: 3D Modeller / Animator
+*Vivian: Designer
+*Cameron: Animator
+*Andrew: Writer
